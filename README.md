@@ -4,7 +4,7 @@
 
 ## 📥 설치
 
-**[크랙 확프 설치하기](https://raw.githubusercontent.com/yyb02006/Quick-Insert-Edit/refs/heads/main/Quick%20Insert%20%26%20Edit.user.js)**
+**[Quick-Insert-Edit 설치하기](https://raw.githubusercontent.com/yyb02006/Quick-Insert-Edit/refs/heads/main/Quick%20Insert%20%26%20Edit.user.js)**
 
 > **Tampermonkey가 설치되어 있어야 합니다.**
 
