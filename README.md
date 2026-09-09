@@ -88,6 +88,7 @@ Ctrl + Shift + A
 <img width="960" height="116" alt="적용례" src="https://github.com/user-attachments/assets/7b313da9-a5ac-4193-ba4f-c6deaec69efb" />
 
 <br>
+<br>
 
 ## ⚠️ 주의사항
 
