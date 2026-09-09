@@ -11,7 +11,7 @@
 // @run-at       document-idle
 // ==/UserScript==
 
-const CHAT_ID = '6a8b85beddd893caea421baa';
+const CHAT_ID = '';
 const ASSISTANT_PANEL_ID = '.css-10wlg6j';
 const currentChatId = window.location.pathname.match( /\/stories\/[^/]+\/episodes\/([^/]+)/ )?.[1];
 const DB_NAME = 'MessageCleanerDB';
