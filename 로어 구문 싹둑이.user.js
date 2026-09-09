@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         로어 구문 싹둑이
 // @namespace    http://tampermonkey.net/
-// @version      1.0.0
+// @version      1.0.1
 // @description  싹둑싹둑데스네~
 // @author       ㅇㅇ
 // @match        https://crack.wrtn.ai/*
@@ -173,6 +173,7 @@ function createSettingsUI() {
             font-size: 17px;
             font-weight: 600;
             letter-spacing: -0.02em;
+            margin-bottom: 0px !important
         }
 
         #lore-settings-description {
