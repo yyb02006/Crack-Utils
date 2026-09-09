@@ -9,7 +9,7 @@
 
 ---
 
-# Lore-SSAKDOOK
+# [1. Lore-SSAKDOOK]
 
 크랙에서 **에리의 로어 스크립트로 추가된 구문 숨김 및 자동 삭제**를 지원하는 Tampermonkey 스크립트입니다.
 
@@ -37,7 +37,7 @@ DOM자체를 변경하기 때문에 옵션 토글 시 **새로고침이 필요�
 
 ---
 
-# Quick-Insert-Edit
+# [2. Quick-Insert-Edit]
 
 크랙에서 **메시지 수정/저장 단축키**와 **상용구 단축키를 이용한 빠른 입력**을 지원하는 Tampermonkey 스크립트입니다.
 
