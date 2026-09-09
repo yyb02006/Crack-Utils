@@ -141,6 +141,6 @@ Ctrl + Shift + R
 다른 프로젝트에 활용하거나 구워먹든 삶아먹든 제한은 없지만, **원본 코드의 위치를 찾을 수는 있도록 함께 명시해 주십쇼.**
 
 **원본 코드:**
-[https://github.com/yyb02006/Quick-Insert-Edit](https://github.com/yyb02006/Crack-Utils)
+https://github.com/yyb02006/Crack-Utils
 
 ---
