@@ -12,7 +12,7 @@
 // @run-at       document-idle
 // ==/UserScript==
 
-const CHAT_ID = '6a8b85beddd893caea421baa';
+const CHAT_ID = '';
 const currentChatId =
       location.pathname.split('/').filter(Boolean).pop();
 const ASSISTANT_PANEL_ID = '.css-10wlg6j';
