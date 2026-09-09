@@ -1,12 +1,26 @@
-# Quick-Insert-Edit
-
-크랙에서 **메시지 수정/저장 단축키**와 **상용구 단축키를 이용한 빠른 입력**을 지원하는 Tampermonkey 스크립트입니다.
-
-## 📥 설치
+## 유틸 스크립트 설명 전 📥 스크립트를 사용하기위해 설치해야할 확장프로그램
 
 **[Quick-Insert-Edit 설치하기](https://raw.githubusercontent.com/yyb02006/Quick-Insert-Edit/refs/heads/main/Quick%20Insert%20%26%20Edit.user.js)**
 
-> **Tampermonkey가 설치되어 있어야 합니다.**
+> **모든 유틸 스크립트는 Tampermonkey가 설치되어 있음을 전제로 합니다.**
+
+# Lore-SSAKDOOK
+
+크랙에서 **에리의 로어 스크립트로 추가된 구문 숨김 및, 자동 삭제**를 지원하는 Tampermonkey 스크립트입니다.
+
+---
+
+## 기능 1: 지정된 턴 동안 로어를 유지하고, 지정 턴 이후의 로어는 서버에서 삭제합니다.
+
+턴 기준은 유저 메시지 갯수입니다. (10개 기준이면 유저가 보낸 메시지가 10개 누적될 동안은 로어구문이 사라지지 않음)
+
+## 기능 2: 유지중인 로어를 UI에서 숨깁니다.
+
+===
+
+# Quick-Insert-Edit
+
+크랙에서 **메시지 수정/저장 단축키**와 **상용구 단축키를 이용한 빠른 입력**을 지원하는 Tampermonkey 스크립트입니다.
 
 ---
 
