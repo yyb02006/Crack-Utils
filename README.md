@@ -1,10 +1,15 @@
 ## 유틸 스크립트 설명 전 📥 스크립트를 사용하기위해 설치해야할 확장프로그램
 
-**[Quick-Insert-Edit 설치하기](https://raw.githubusercontent.com/yyb02006/Quick-Insert-Edit/refs/heads/main/Quick%20Insert%20%26%20Edit.user.js)**
+**[[템퍼몽키](https://www.tampermonkey.net/)]**
 
 > **모든 유틸 스크립트는 Tampermonkey가 설치되어 있음을 전제로 합니다.**
 
 <br>
+
+## 스크립트 목록
+1. [로어 싹둑이](https://raw.githubusercontent.com/yyb02006/Crack-Utils/refs/heads/main/%EB%A1%9C%EC%96%B4%20%EA%B5%AC%EB%AC%B8%20%EC%8B%B9%EB%91%91%EC%9D%B4.user.js)
+2. [Quick-Insert-Edit](https://raw.githubusercontent.com/yyb02006/Crack-Utils/refs/heads/main/Quick%20Insert%20%26%20Edit.user.js)
+
 <br>
 <br>
 
